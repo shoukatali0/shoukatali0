@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shoukatali0
-- 👀 I’m interested in c++ project and block chain technology
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on c++ projects
+- 👀 I’m interested in java project and web technology
+- 🌱 I’m currently learning javascript and java 
+- 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me shoukatmulla741@gmail.com
 
 <!---
