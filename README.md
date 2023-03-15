@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shoukatali0
 - 👀 I’m interested in java project and web technology
-- 🌱 I’m currently learning javascript and java 
-- 💞️ I’m looking to collaborate on java projects
+- 🌱 I’m currently learning javascript and c++
+- 💞️ I’m looking to collaborate on fullstack projects
 - 📫 How to reach me shoukatmulla741@gmail.com
 
 <!---
