@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shoukatali0
-- 👀 I’m interested in java project and web technology
+- 👀 devops
 - 📫 How to reach me shoukatmulla741@gmail.com
 
 <!---
